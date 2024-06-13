@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afd9b637-c2be-4890-b1e2-2a7beed85d69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/DuplicateValuesCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/MissingClosingIndicesDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/NumberPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/NumberPatterns2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/PrintNumbersRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/ReverseNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaPrograms/StringComparissions.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2hml70j7CjDDj2UZCfH3uClooIT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ReverseNumber">
+    <configuration name="DuplicateValuesCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPrograms.DuplicateValuesCounter" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPrograms.Factorial" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPrograms.ReverseNumber" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPrograms.ReverseString" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaPrograms.MissingClosingIndicesDetector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaPrograms.MissingClosingIndicesDetector" />
+      <module name="Java_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaPrograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.DuplicateValuesCounter" />
+        <item itemvalue="Application.javaPrograms.MissingClosingIndicesDetector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd9b637-c2be-4890-b1e2-2a7beed85d69" name="Changes" comment="" />
+      <created>1718206965918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718206965918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
